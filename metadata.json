@@ -1,0 +1,5 @@
+{
+  "name": "Obscura",
+  "description": "A Call of Cthulhu virtual tabletop application featuring character sheets, real-time chat with dice rolling, visual novel style dialogue, and keeper tools for atmospheric storytelling.",
+  "requestFramePermissions": []
+}
